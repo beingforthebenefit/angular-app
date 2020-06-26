@@ -1,5 +1,5 @@
 #Demo
-A production version of this app is hosted at [https://geraldtodd.dev/angular-app](geraldtodd.dev).
+A production version of this app is hosted at [geraldtodd.dev/angular-app](https://geraldtodd.dev/angular-app).
 
 # AngularApp
 
